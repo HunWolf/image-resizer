@@ -4,7 +4,7 @@ A small image resizer applaction written in PHP.
 
 Stack:
 
-PHP
+PHP<br>
 BootStrap
 
 Features:
