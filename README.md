@@ -9,5 +9,5 @@ BootStrap
 
 <b>Features:</b>
 
-Resize pictures to any size<br>
-Keep the ratio of your picture, if you want
+˙ Resize pictures to any size<br>
+˙ Keep the ratio of your picture, if you want
